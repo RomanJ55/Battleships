@@ -2,12 +2,16 @@
 Battleships Game written in python! Module "pygame" used for the GUI
 
 Game 99% finished
+(rare bugs - mostly edge cases may happen) 
 
 Currently supports only one player(playing against himself)...
 
 Future plans:
-  - Programm AI
-  - Add sockets for two player-mode to play over a LAN or the Internet
+  - Fix bugs
+  - program AI
+  - add sockets for two player-mode to play
+    - over a LAN
+    - the Internet
 
 
 
