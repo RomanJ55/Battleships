@@ -2,7 +2,7 @@
 Battleships Game written in python! Module "pygame" used for the GUI
 
 Game 99% finished
-(rare bugs - mostly edge cases may happen) 
+(rare bugs(edge cases) may happen) 
 
 Currently supports only one player(playing against himself)...
 
