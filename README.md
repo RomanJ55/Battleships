@@ -7,13 +7,8 @@ Game 99% finished
 Currently supports only one player(playing against himself)...
 
 Future plans:
-  - Fix bugs
   - program AI
-  - add sockets for two player-mode to play
-    - over a LAN
-    - the Internet
-
-
+  - add sockets for two player-mode to play over a LAN or the Internet
 
 
 ![Start_screen](assets/001.jpg "Start_screen")
